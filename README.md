@@ -5,4 +5,4 @@ https://arxiv.org/pdf/1611.07004
 
 ## Here I have trained the model for conversion of real image of roads to map like view images
 
-![result](results_map.png)
+![result](results_maps.png)
